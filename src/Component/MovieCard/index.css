@@ -1,0 +1,14 @@
+.no-results-cont{
+    min-height: 200px;
+    overflow-y: hidden ;
+    text-align: center;
+}
+
+.no-results-cont img{
+    width: 350px;
+}
+
+.no-results-cont p{
+    color: #252525;
+    font-size: 20px;
+}   
